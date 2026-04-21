@@ -8,7 +8,7 @@ const Footer = () => {
           <div>
             <h3 className="font-display text-xl text-background font-semibold mb-4">Civico 74</h3>
             <p className="text-sm leading-relaxed">
-              Pizza Take Away — La vera pizza napoletana a Porto Viro.
+              Pizza Take Away — La pizza buona a Porto Viro.
             </p>
           </div>
           <div>

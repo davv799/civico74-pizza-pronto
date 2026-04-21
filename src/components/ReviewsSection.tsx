@@ -8,7 +8,7 @@ const reviews = [
   { name: "Giacomo Zago", text: "Pizza top! Prodotti di alta qualità, prezzi giusti e staff giovane e super disponibile." },
   { name: "Elisa Roccato", text: "Impasto napoletano buonissimo, si sentono i prodotti di qualità. Personale gentilissimo." },
   { name: "Samantha Vivian", text: "La migliore pizzeria della zona, soprattutto pizza in pala e napoletana: squisite!" },
-  { name: "Maria F. Pizzighello", text: "La vera pizza napoletana, viene voglia di fare il bis!" },
+  { name: "Maria F. Pizzighello", text: "La pizza buona a Porto Viro, viene voglia di fare il bis!" },
   { name: "Anne Crepaldi", text: "L'unica pizza di cui mangio anche i bordi! Super digeribile." },
   { name: "Simone", text: "Tra le pizze napoletane più buone mai mangiate. Puntualissimi e prezzi ottimi." },
   { name: "Valentina R.", text: "Sempre puntuali, sempre buonissima. Non la cambierei per nulla!" },
