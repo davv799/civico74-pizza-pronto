@@ -18,7 +18,7 @@ const HeroSection = () => {
           Civico 74 — Pizza Take Away
         </p>
         <h1 className="font-display text-4xl md:text-6xl lg:text-7xl text-primary-foreground leading-tight mb-6 text-shadow-hero">
-          La vera pizza napoletana a Porto Viro
+          La pizza buona a Porto Viro
         </h1>
         <p className="text-lg md:text-xl text-secondary max-w-2xl mx-auto mb-10 leading-relaxed">
           Impasti leggeri, ingredienti di qualità, passione autentica
